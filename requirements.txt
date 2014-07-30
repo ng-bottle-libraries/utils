@@ -1,2 +1,4 @@
+bottle
+webtest
 mongoengine
 hg+http://bitbucket.org/mhallin/py-scrypt#egg=scrypt
